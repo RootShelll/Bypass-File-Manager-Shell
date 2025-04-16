@@ -2,7 +2,7 @@
 
 **An advanced PHP-based file manager: folder navigation, file editing, upload, secure login, and more. A powerful single-file solution.**
 
-![Bypass File Manager](https://via.placeholder.com/150)  
+![Bypass File Manager](https://r00t-shell.com/wp-content/uploads/2025/04/Bypass-File-Manager-Shell-R00t-Shell-1.png)  
 *Image: File Manager Overview*
 
 ## 🔑 Password: **R00t**
