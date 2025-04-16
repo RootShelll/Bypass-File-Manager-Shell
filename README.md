@@ -67,19 +67,5 @@
 
 ---
 
-### 📌 Quick Demo
-![Demo](https://via.placeholder.com/600x200)
-
-This image demonstrates the file manager in action with dark mode and various features!
-
----
-
 ### 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### 📚 Additional Resources
-
-- [PHP Documentation](https://www.php.net/docs.php)
-- [GitHub Project](https://github.com/yourusername/repository)
